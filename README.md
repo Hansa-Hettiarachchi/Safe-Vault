@@ -1,5 +1,5 @@
 # Safe-Vault
-Project Title: Safe-Vault - Advanced Secure Vault with Mobile App Integration
+Project Title: Safe Vault - Advanced Secure Vault with Mobile App Integration
 
 Description:
 FortiLock is an innovative and state-of-the-art safe vault designed to protect your most valuable possessions with multiple layers of security. It combines robust physical security features with cutting-edge biometric technology, offering unparalleled protection for your belongings.
